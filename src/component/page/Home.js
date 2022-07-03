@@ -5,7 +5,7 @@ class Home extends Component {
     render() {
         return (
             <div>
-                <h1 className="Header-Home">Wellcome Amin</h1>
+                <h1 className="Header-Home">Google Clone</h1>
                 <div className="Input">
                     <div className="ininput">
                         <div className="iconparent">
